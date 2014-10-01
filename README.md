@@ -1,4 +1,5 @@
-##Low Orbit Ion Skype Cannon
+##Low Orbit Ion Skype Cannon 
+![alt text](http://t1.gstatic.com/images?q=tbn:ANd9GcRMAnMXePlcRzQp5TyfvK4HwkbFIAVxxPW3YRuSSGlNds7CBzLQQw "ION CANNON")
 
 Spam a skype window using [autohotkey](http://www.autohotkey.com) because someone made fun of your wife.
 
